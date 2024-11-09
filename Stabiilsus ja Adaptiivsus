@@ -1,0 +1,6 @@
+Stabiilsus
+Sortimisalgoritm on stabiilne, kui see säilitab võrdsete elementide algse järjekorra pärast sorteerimist. Teisisõnu, kui kaks elementi on võrdsed algses loendis, jäävad nad samasse järjekorda ka sorteeritud loendis.
+Näiteks, kui meil on loend, kus on kaks elementi väärtusega 5, ja algses loendis on esimene 5 enne teist 5, siis stabiilne sortimisalgoritm tagab, et sorteeritud loendis on esimene 5 endiselt enne teist 5.
+
+Adaptiivsus
+Adaptiivsus sortimisalgoritmides tähendab algoritmi võimet ära tunda ja ära kasutada juba osaliselt sorteeritud loendi struktuuri, et vähendada sortimisele kuluvat aega. Adaptiivne algoritm töötab kiiremini, kui loend on juba osaliselt sorteeritud, võrreldes täiesti sortimata loendiga.
